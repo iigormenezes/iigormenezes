@@ -15,7 +15,7 @@ Olá 👋, sou Igor Menezes! Um apaixonado estudante de desenvolvimento Android.
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Sobre eu</summary>
 
   - 💬 Tenho 24 anos e atualmente moro no Brasil. E tenho experiência com SQL, Java, Android.
 

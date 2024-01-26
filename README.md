@@ -23,9 +23,9 @@ Tenho 26 anos e atualmente moro no Brasil. Tenho experiência com SQL,Java, Kotl
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Tenho 26 anos e atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou criador de conteúdo no YouTube desde 2018, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
+  - 💬 Tenho 24 anos e atualmente moro no Brasil. E tenho experiência com SQL, Java, Android.
 
-  - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡Gosto de Skate, Arduino e além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->

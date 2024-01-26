@@ -13,12 +13,6 @@ Olá 👋, sou Igor Menezes! Um apaixonado estudante de desenvolvimento Android.
 
 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento android.
 
-👨‍💻 Mais sobre mim
-
-Tenho 26 anos e atualmente moro no Brasil. Tenho experiência com SQL,Java, Kotlin, Html/ Css e Android 
-
-  - ⚡Gosto de ler, seja um bom livro,Arduino e android, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
-
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -29,10 +23,8 @@ Tenho 26 anos e atualmente moro no Brasil. Tenho experiência com SQL,Java, Kotl
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/igormenezesw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-menezes-2b2378197/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)

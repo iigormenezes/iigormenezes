@@ -29,8 +29,8 @@ Olá 👋, sou Igor Menezes! Um apaixonado estudante de desenvolvimento Android.
 ### Linguagem de Programação
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Ferramentas
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-thebadge&logo=eclipse&logoColor=white)

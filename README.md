@@ -6,12 +6,18 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Olá Mundo
+Olá 👋, sou Igor Menezes! Um apaixonado estudante de desenvolvimento Android.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+🌱 Conclui o a faculdade de Análise desenvolvimento de Sistema no Centro Universitário São Jose no Rio de Janeiro.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
-</p>
+🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento android.
+
+👨‍💻 Mais sobre mim
+
+Tenho 26 anos e atualmente moro no Brasil. Tenho experiência com SQL,Java, Kotlin, Html/ Css e Android 
+
+  - ⚡Gosto de ler, seja um bom livro,Arduino e android, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 
 <!-- Dropdown -->
 <details>

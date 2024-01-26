@@ -33,7 +33,7 @@ Olá 👋, sou Igor Menezes! Um apaixonado estudante de desenvolvimento Android.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas e Frameworks
-![ECLIPSE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-thebadge&logo=eclipse&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
